@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+password_history.txt
+.env
+.vscode/
+.idea/
